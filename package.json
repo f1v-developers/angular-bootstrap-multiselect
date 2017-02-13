@@ -32,8 +32,7 @@
     "protractor": "~4.0.13",
     "protractor-screenshot-reporter": "0.0.5"
   },
-  "scripts": {
-    "install": "node node_modules/protractor/bin/webdriver-manager update",
+  "scripts": {    
     "test": "grunt ci"
   }
 }
